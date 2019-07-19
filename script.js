@@ -1,21 +1,51 @@
-let idade = Number(prompt(`digite sua idade`))
-let money = Number(prompt(`digite quanto você ganha`))
-let quantidade = Number(prompt(`valor do imprestimo`))
+// let idade = Number(prompt(`digite sua idade`))
+// let money = Number(prompt(`digite quanto você ganha`))
+// let quantidade = Number(prompt(`valor do imprestimo`))
 
-if(idade >=25 && idade <=60 && money >=2000){
-alert(`seu imprestimo foi aprovado `)
-}
-else if(idade <25 || idade >60 || money <2000){
-    alert(`reprovado`)
-    }
-else if (quantidade <=10* "o valor que ganha"){
-    alert(`aprovado`)
-}
-else if (quantidade >=10* "o valor que ganha"){
-    alert(`reprovado`)
-}
-else{alert(`reprovado`)}
+// if(idade >=25 && idade <=60 && money >=2000){
+// alert(`seu imprestimo foi aprovado `)
+// }
+// else if(idade <25 || idade >60 || money <2000){
+//     alert(`reprovado`)
+//     }
+// else if (quantidade <=10* "o valor que ganha"){
+//     alert(`aprovado`)
+// }
+// else if (quantidade >=10* "o valor que ganha"){
+//     alert(`reprovado`)
+// }
+// else{alert(`reprovado`)}
 
+
+// let dia = Number(prompt("Calendário semanal"))
+
+// if (dia == 1) {
+//   alert("domingo")
+// }
+
+// else if (dia == 2){
+//     alert("segunda")
+// }
+
+// else if (dia == 3){
+//     alert("terça")
+// }
+
+// else if (dia == 4){
+//     alert("quarta")
+// }
+
+// else if (dia == 5){
+//     alert("quinta")
+// }
+
+// else if (dia == 6){
+//     alert("sexta")
+// }
+
+// else if (dia == 7){
+//     alert("sabado")
+// }
 
 // "let idade = Number(prompt("digite sua idade"));
 // let aposentado =(prompt("você é aposentado ? sim ou nao"));
@@ -46,12 +76,12 @@ else{alert(`reprovado`)}
 
 
 
-// // if(){
+// // // if(){
 
-// // }
-// // else if(){
+// // // }
+// // // else if(){
 
-// // }
-// // else{
+// // // }
+// // // else{
 
-// // }
+// // // }
